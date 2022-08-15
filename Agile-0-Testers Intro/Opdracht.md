@@ -47,3 +47,8 @@ dynamisch testen klinkt tot noch toe als de meest bekende methode door de eerder
 White-box bezigheden lijken veel op de stappen die je onderneemt als je app functioneel klaar en werkende is. er wordt aan optimalisatie en voornamelijk esthetische aspecten gesleuteld. Ondanks dat het voor zich zelf sprekend lijkt, is het niet ideal om dit tijdens het coderen te doen, vanwege de vaak onverwachte hoeveelheid tijd die dit op kan slokken.
 
 -----------------------------------------
+
+# SDLC / STLC 
+
+System Development Life Cycle, en Software Development Life Cycle. 
+STLC vindt als laatste fase van SDLC plaats, nadat alle andere fasen zijn voltooid.
