@@ -1,4 +1,3 @@
-import java.util.Locale;
 
 public class prac {
     public static void main(String[] args) {
@@ -9,8 +8,5 @@ public class prac {
     public static void addCruiseControlForCool(String s) {
         System.out.println(s.toUpperCase() + "!");
     }
-
-
-
 
 }
