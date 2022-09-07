@@ -24,7 +24,7 @@ class Test {
 
         int nummer = nummer1 + 2;
 
-        test3("Java", "Mitch");
+        test3("Mitch", "Mitch");
 //        test3(4, 5);
 //        test3(5, 5);
 //        test3(7, 5);

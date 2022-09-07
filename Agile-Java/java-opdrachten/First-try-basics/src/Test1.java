@@ -3,7 +3,7 @@ public class Test1 {
     public static void main(String[] args) {
 
 
-//        test3(5,6);
+//        test3(6,6);
 //        test3(15350,104305);
 
 
