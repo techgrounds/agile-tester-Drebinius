@@ -18,4 +18,4 @@ public class Test {
     private static void test3(Integer nummer1, Integer nummer2){
         int uitkomst = nummer1 + nummer2;
         System.out.println(uitkomst);
-    }
+    }}
