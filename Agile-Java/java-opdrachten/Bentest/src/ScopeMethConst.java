@@ -1,0 +1,21 @@
+/*
+SCOPE & VARIABLE TYPES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ */
