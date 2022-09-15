@@ -1,7 +1,7 @@
 package Numan;
 
 public class Car {
-     String brand;         // when static is added, all brand and color
+     String brand;                // when static is added, all brand and color
                                          // outputs set to the last added values. memory adressess do still differ
      String color;
 
@@ -13,7 +13,7 @@ public class Car {
 
      this.brand = b;
      if (brand == null) {
-         brand = "placeholder";}
+         brand = "a placeholder";}
 
      this.color = c;
      if (color == null) {
@@ -21,13 +21,13 @@ public class Car {
 
      this.name = null;
      if (name == null) {
-         name = "placeholder";}
+         name = "a placeholder";}
     }
 
    public Car(String b, String c, String n) {
         this.brand = b;
        if (brand == null) {
-           brand = "placeholder";}
+           brand = "a placeholder";}
 
         this.color = c;
        if (color == null) {
@@ -35,7 +35,7 @@ public class Car {
 
         this.name = n;
        if (name == null) {
-           name = "placeholder";}
+           name = "a placeholder";}
  }
 
 //    public Car() {
@@ -54,7 +54,7 @@ public class Car {
             name = "a placeholder";}
     }
     void  Display(){
-         System.out.println(      //display is een method bestaande uit sout en strings die icm een car instance called kan worden om "brand= b(brand), color= c(color)" als output te krijgen (zie line 25)
+         System.out.println(      //display is een method bestaande uit sout en strings die icm een car instance called kan worden om "brand= b(brand), color= c(color)" als output te krijgen (zie main)
                             "brand= "
                          + brand
                          + ", "

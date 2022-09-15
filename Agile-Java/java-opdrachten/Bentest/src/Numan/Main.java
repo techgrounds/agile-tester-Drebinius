@@ -3,7 +3,7 @@ package Numan;
 public class Main {
     public static void main(String[] args) {
         Car car1 = new Car("Volvo", "Forest Green");
-        Car car2 = new Car("Lada", "Cardboard Brown", "Apyr");
+        Car car2 = new Car("Lada", "Cardboard Brown", "Apyr (друг)");
         Car car3 = new Car();
         Car car4 = new Car();
 
