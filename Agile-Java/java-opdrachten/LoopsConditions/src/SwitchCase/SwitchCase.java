@@ -18,7 +18,7 @@ public class SwitchCase {                                                       
                 DotW = "Tuesday Bluesday";
                 break;
             case "wednesday":
-                DotW = "It is wednesday, my dudes.";
+                DotW = "It is wednesday, my dudes. OOOOOOOooOOoOoOoHhHH!";
                 break;
             case "thursday":
                 DotW = "Thursday shmursday";
